@@ -4,7 +4,7 @@ Code, data and outputs for the manuscript:
 
 > **An Exploratory Machine-Learning Ranking of Type 2 Diabetes-Associated Pancreatic β-Cell Genes Using Heterogeneous Gene-Level Evidence**
 > Mayishat Altab Mridu, Department of Computer Science and Engineering, Daffodil International University, Dhaka, Bangladesh
-> (submitted to *SN Computer Science*)
+> (submitted to NetMAHIB (Springer)*)
 
 The study ranks 3,868 genes against a pancreatic β-cell type 2 diabetes (T2D) differential-expression phenotype, using 14 gene-level predictors that span genetic association, expression, tissue specificity, protein–protein interaction and pathway evidence. It then measures how much of the ranking signal comes from gene expression level and detectability rather than from genetic or network evidence.
 
