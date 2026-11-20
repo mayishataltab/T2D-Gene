@@ -1,10 +1,10 @@
 # Exploratory machine-learning ranking of T2D-associated pancreatic β-cell genes
 
-Code, data and outputs for the manuscript:
+Code and data for the manuscript:
 
 > **An Exploratory Machine-Learning Ranking of Type 2 Diabetes-Associated Pancreatic β-Cell Genes Using Heterogeneous Gene-Level Evidence**
 > Mayishat Altab Mridu, Department of Computer Science and Engineering, Daffodil International University, Dhaka, Bangladesh
-> (submitted to NetMAHIB (Springer)*)
+> (submitted to *Network Modeling Analysis in Health Informatics and Bioinformatics*, Springer)
 
 The study ranks 3,868 genes against a pancreatic β-cell type 2 diabetes (T2D) differential-expression phenotype, using 14 gene-level predictors that span genetic association, expression, tissue specificity, protein–protein interaction and pathway evidence. It then measures how much of the ranking signal comes from gene expression level and detectability rather than from genetic or network evidence.
 
@@ -18,7 +18,6 @@ The study ranks 3,868 genes against a pancreatic β-cell type 2 diabetes (T2D) d
 |---|---|
 | `T2D_GeneRanking_Analysis_2026_10.ipynb` | Complete analysis notebook (Google Colab), saved with the outputs of the run reported in the manuscript |
 | `T2D_GeneRanking_Dataset_3868genes_2026-10.xlsx` | Integrated gene-level dataset used as the notebook's input |
-| `T2D_GeneRanking_Outputs_2026-10.zip` | All outputs of that run: tables, figures, workbooks, fitted models and the run manifest |
 
 ### Dataset workbook
 
@@ -112,7 +111,7 @@ The notebook stops with an error if any of these fails:
 
 ---
 
-## Outputs (`T2D_GeneRanking_Outputs_2026-10.zip`)
+## Outputs (created by running the notebook)
 
 | Path | Contents |
 |---|---|
